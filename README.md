@@ -1,6 +1,6 @@
 # Weibo User Depression Detection Dataset 
 
-# (微博用户抑郁症检测数据集)
+# 微博用户抑郁症检测数据集
 
 ## Introduction
 
@@ -29,11 +29,11 @@
 | num_of_comments      | The number of comments.                                      |                              3                               |
 | tweet_is_original    | An identifier that identifies if the tweet is an original tweet. |                             True                             |
 
-<img src="https://github.com/aidenwang9867/Weibo-User-Drpession-Detection-Dataset/datafields.png" style="zoom:80%;" />
+<img src="https://github.com/aidenwang9867/Weibo-User-Drpession-Detection-Dataset/blob/master/datafields.png" style="zoom:80%;" />
 
 - An example of a user sample in given here:
 
-<img src="https://github.com/aidenwang9867/Weibo-User-Drpession-Detection-Dataset/dataexample.png" style="zoom:60%;" />
+<img src="https://github.com/aidenwang9867/Weibo-User-Drpession-Detection-Dataset/blob/master/dataexample.png" style="zoom:60%;" />
 
 
 
