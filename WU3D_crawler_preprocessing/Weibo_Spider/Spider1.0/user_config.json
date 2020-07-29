@@ -1,0 +1,20 @@
+{
+    "user_id_list": [
+        "7417046230","1744501133","7295025912"
+    ],
+    "filter": 0,
+    "since_date": "2020-01-01",
+    "write_mode": [
+        "csv"
+    ],
+    "pic_download": 0,
+    "video_download": 0,
+    "cookie": "ALF=1590133545; _T_WM=87746969139; WEIBOCN_WM=3349; H5_wentry=H5; backURL=https%3A%2F%2Fm.weibo.cn%2F; SSOLoginState=1587541546; SCF=Auulx9XHrIcllUmHIjvXdO5IeNiRPn0U2S4eTbxsPG9NlNGQsBlHUDEDP6Bnv8m987efQwA0pWZTIO1p2GDhbqo.; SUB=_2A25zm4Z6DeRhGeNO4lAV-CrEyj2IHXVRZyoyrDV6PUNbktAKLVXSkW1NTrvY-TN3KgBZMFwpyEboROAOEAjGiu63; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9W5v8GPkIBi5WVaLOGSgegRA5JpX5KzhUgL.Fo-71KzX1hBReK22dJLoIE5LxK-LB.eLBK5LxKqL1h5LBK2LxK.L1-eL1Kq4ShzNSBtt; SUHB=0IIVoqj7ok0yrm; MLOGIN=1; M_WEIBOCN_PARAMS=luicode%3D20000174; WEIBOCN_FROM=1110106030",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}

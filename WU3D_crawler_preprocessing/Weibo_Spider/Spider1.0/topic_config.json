@@ -1,0 +1,17 @@
+{
+    "keyword_list": [ "%23抑郁症%23"],
+    "start_time": "2017-01-01",
+    "end_time": "2017-12-31",
+    "filter": 1,
+    "write_mode": ["csv"],
+    "pic_download": 0,
+    "video_download": 0,
+    "cookie": "SSOLoginState=1585804904; SUB=_2A25zgQY4DeRhGeBN7VQX9yrFwjWIHXVQjapwrDV6PUJbktAKLUKskW1NRFQdO25CSaSOQeHjkox33sexeUkzY6fJ; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WhAk76BHi0zoSTaqMMMbivP5JpX5KzhUgL.Foq0SoqcS0B41K.2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMce0qcSoMX1K.4; SUHB=0QS5WPceX8vp3E; SCF=Ap-yZedZoEPaPpr6Hi5VfG5EaCylefDOJXTXWhzBj0Ue4Es6DC5du_firm954aFgS2SKmzsgoV3qPlkLecUhuR0.; _T_WM=70480543096; MLOGIN=1; M_WEIBOCN_PARAMS=luicode%3D20000174",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    }
+}
