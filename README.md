@@ -1,6 +1,12 @@
-# Weibo User Depression Detection Dataset (微博用户抑郁症检测数据集)
+# Weibo User Depression Detection Dataset 
 
-- The Weibo User Depression Detection Dataset **(WU3D)** contains normal user samples and depressed user samples collected by a crawler using the crawling API provided by the Weibo official. The dataset is stored using  JSON files, with `depressed.json` for the depressed users and `normal.json` for the normal users. The detailed information fields of a user include:
+# (微博用户抑郁症检测数据集)
+
+## Introduction
+
+- The Weibo User Depression Detection Dataset **(WU3D)** contains normal user samples and depressed user samples collected by a crawler using the crawling API provided by the Weibo official. 
+- The dataset is stored by JSON files, with `depressed.json` for the depressed users and `normal.json` for the normal users. It can be download from [Google Drive](https://drive.google.com/file/d/1nzURaI60wF2s4P9-G2JDowirrx0VBelE/view?usp=sharing) or [Baidu Netdisk (百度云盘，提取码yar1)](https://pan.baidu.com/s/10xItuplkTNMmJdOEGBiXPw).
+- The detailed information fields of a user include:
 
 | Field Name           | Description                                                  |                           Example                            |
 | -------------------- | ------------------------------------------------------------ | :----------------------------------------------------------: |
@@ -48,7 +54,7 @@
 
 - In order to protect the privacy of depressed users, we have deleted the user IDs in WU3D.
 - Instead, **we have uploaded the crawler script** and the script for data preprocessing. Researchers can further collect user samples based on our scripts. All the scripts and the deployment document `README.md` are placed in the folder `WU3D_crawler_preprocessing`.
-- If the `encoding='utf-8'` doesn't work, try: `encoding='utf-8-sig'` when using `Python` to load the JSON file.
+- If  `encoding='utf-8'` doesn't work, try: `encoding='utf-8-sig'` when using `Python` to load the JSON file.
 
 - Other issues will be updated soon...
 
