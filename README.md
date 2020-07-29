@@ -29,12 +29,6 @@
 | num_of_comments      | The number of comments.                                      |                              3                               |
 | tweet_is_original    | An identifier that identifies if the tweet is an original tweet. |                             True                             |
 
-<img src="./datafields.png" style="zoom:80%;" />
-
-- An example of a user sample in given here:
-
-<img src="./dataexample.png" style="zoom:60%;" />
-
 
 
 - As of May 30, 2020, the candidate samples collected by the crawler and the various information of the samples in WU3D are shown in the following table. Once new data is updated later, the statistics in this table will be updated.
