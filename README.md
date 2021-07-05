@@ -61,6 +61,6 @@
 - The interpretation right of this dataset belongs to Chenghao Li (李丞浩) and Zhang Yilin (张怡霖).  If there are any questions about the dataset, please contact: 
   - Chenghao Li (李丞浩): thebeacon9@gmail.com    **(Crawler Developer & Dataset Owner)**
   - Zhang Yilin (张怡霖) : 2726608449@qq.com    **(Dataset Owner)**
-  - Yiding Wang (王一丁): devinwangfighting9867@gmail.com    **(Github Project maintainer)**
+  - Yiding Wang (王一丁): yidingwang9867@gmail.com    **(Github Project maintainer)**
   - Zhenyi Wang (王臻懿): kun.wangzy@gmail.com    **(Github Project maintainer)**
 
