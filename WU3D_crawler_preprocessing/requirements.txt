@@ -153,7 +153,7 @@ tqdm==4.45.0
 traitlets==4.3.3
 typed-ast==1.4.1
 ujson==1.35
-urllib3==1.25.8
+urllib3==1.26.5
 w3lib==1.21.0
 watchdog==0.10.2
 wcwidth==0.1.9
