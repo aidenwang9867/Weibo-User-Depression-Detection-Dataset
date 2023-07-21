@@ -152,7 +152,7 @@ tornado==6.0.4
 tqdm==4.45.0
 traitlets==4.3.3
 typed-ast==1.4.1
-ujson==1.35
+ujson==5.4.0
 urllib3==1.25.8
 w3lib==1.21.0
 watchdog==0.10.2
