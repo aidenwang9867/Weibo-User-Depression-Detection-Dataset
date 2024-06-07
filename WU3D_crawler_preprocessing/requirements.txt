@@ -148,7 +148,7 @@ tensorflow==2.7.2
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 testpath==0.4.4
-tornado==6.0.4
+tornado==6.4.1
 tqdm==4.45.0
 traitlets==4.3.3
 typed-ast==1.4.1
