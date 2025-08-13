@@ -35,7 +35,7 @@ gensim==3.8.2
 google-auth==1.12.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
-grpcio==1.27.2
+grpcio==1.53.2
 h5py==2.10.0
 harvesttext==0.7.3.1
 idna==2.9
