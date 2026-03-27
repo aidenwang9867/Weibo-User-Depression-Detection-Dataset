@@ -54,7 +54,7 @@ jmespath==0.9.5
 joblib==0.14.1
 JPype1==0.7.5
 jsonschema==3.2.0
-jupyter-client==6.1.0
+jupyter-client==6.1.12
 jupyter-core==4.6.1
 Keras==2.1.5
 Keras-Applications==1.0.8
