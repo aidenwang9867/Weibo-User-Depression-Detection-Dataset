@@ -29,7 +29,7 @@ diff-match-patch==20181111
 docutils==0.15.2
 entrypoints==0.3
 flake8==3.7.9
-future==0.18.2
+future==0.18.3
 gast==0.2.2
 gensim==3.8.2
 google-auth==1.12.0
