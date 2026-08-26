@@ -164,4 +164,4 @@ wincertstore==0.2
 wordcloud==1.6.0
 wrapt==1.12.1
 yapf==0.28.0
-zipp==2.2.0
+zipp==3.19.1
