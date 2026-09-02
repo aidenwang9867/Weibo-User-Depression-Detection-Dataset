@@ -127,7 +127,7 @@ rope==0.16.0
 rsa==4.0
 Rtree==0.9.3
 s3transfer==0.3.3
-scikit-learn==0.22.2.post1
+scikit-learn==1.5.0
 scipy==1.4.1
 six==1.14.0
 smart-open==2.0.0
