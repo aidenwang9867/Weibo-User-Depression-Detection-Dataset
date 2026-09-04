@@ -116,7 +116,7 @@ pywin32-ctypes==0.2.0
 PyYAML==5.3.1
 pyzmq==18.1.1
 QDarkStyle==2.8
-QtAwesome==0.7.0
+QtAwesome==0.7.3
 qtconsole==4.7.2
 QtPy==1.9.0
 rdflib==5.0.0
