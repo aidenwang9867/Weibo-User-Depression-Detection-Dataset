@@ -5,4 +5,4 @@ redis==2.10.6
 lxml==3.8.0
 scrapy-redis-bloomfilter==0.7.0
 requests==2.19.1
-tqdm==4.31.1
+tqdm==4.66.3
